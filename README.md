@@ -1,4 +1,4 @@
-# TCP Server and Reverse Proxy Project
+# TCP Server and Reverse Proxy Client
 
 ## Overview
 
